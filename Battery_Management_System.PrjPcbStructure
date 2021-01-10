@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=BMS_Balancer.SchDoc
+Record=TopLevelDocument|FileName=BMS_Balancer.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=BMS_Balancer.SchDoc|FileName=BMS_Battery_Connections.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=BMS_Balancer.SchDoc|FileName=BMS_Controler.SchDoc|SheetNumber= 
